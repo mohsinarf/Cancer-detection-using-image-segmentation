@@ -1,1 +1,1 @@
-# Cancer-derection-using-image-segmentation
+# Cancer-detection-using-image-segmentation
